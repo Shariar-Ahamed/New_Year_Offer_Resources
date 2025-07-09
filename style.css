@@ -1,0 +1,174 @@
+.merriweather-head-font{
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  /* font-weight: ; */
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+}
+
+.inter-sub-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: ; */
+  font-style: normal;
+}
+
+
+
+/* Header Section */
+
+.header-section{
+    background-image: linear-gradient(to bottom, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)), url(images/Banner_Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1320px ;
+    height: 600px ;
+    margin: 50px auto;
+    border-radius: 10px;
+    margin-bottom: 120px;
+    
+}
+
+.header-title{
+    font-family:"Merriweather", serif;
+    font-size: 32px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 177px ;
+}
+
+.header-description{
+    font-family:"Merriweather", serif;
+    font-size: 72px;
+    color: #FFFFFF;
+    text-align: center;
+    width: 632px;
+    height: 190px;
+    padding-left: 344px ;
+}
+
+
+/* Happy New Year */
+
+.happy-new-year{
+    text-align: center;
+}
+
+.HNY-title{
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    font-size: 88px;
+    color: #FF0000 ;
+}
+
+.HNY-sub-title{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    color: #FF0000;
+    margin-top: 48px;
+}
+
+
+.HNY-description{
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211 ;
+    margin-top: 16px;
+}
+
+
+
+/* Welcome style */
+.welcome{
+    background-image: linear-gradient(to right, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)), url(images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1320px ;
+    height: 600px ;
+    margin: 50px auto;
+    border-radius: 10px;
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px ;
+}
+
+.welcome-title{
+    font-family: "Merriweather", serif ;
+    font-size: 64px;
+    color: #FFFFFF;
+    width: 645px;
+    height: 176px;
+    margin-bottom: 24px;
+    margin-top: 126px;
+    margin-left: 126px;
+    letter-spacing: 5px;
+}
+
+
+.welcome-description{
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    color: #FFFFFF;
+    width: 697px;
+    height: 60px;
+    margin-left: 126px;
+}
+
+
+.welcome-colum-right{
+    width: 319px;
+    height: 465px;
+    margin-top: 68px;
+    margin-right: 139px ;
+}
+
+.welcome-join{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-left: 158px;
+}
+
+
+/* Join Style */
+.join {
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0));
+    width: 1320px;
+    height: 482px;
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    margin: 120px auto;
+    border-radius: 10px;
+
+}
+
+.join-container{
+    padding: 100px 386px;
+}
+
+.join-span{
+    color: #FF0000;
+}
+
+.btn{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #FF0000;
+    width: 167px;
+    height: 56px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+/* New offer */
+
