@@ -174,3 +174,141 @@
 
 /* New offer */
 
+
+.new-offer{
+    width: 1320px;
+    height: 463px;
+    margin: 120px auto;
+}
+
+.new-offer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.new-offer-dst{
+    width: 390px;
+    height: 255px;
+}
+
+.new-offer-dst-title{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    color: #FF0000;
+}
+
+
+.new-offer-dst-heading{
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: bolder;
+    color: #070211;
+    margin-top: 10px ;
+}
+
+.new-offer-dst-description{
+   font-family:"Inter", sans-serif;
+   font-size: 20x;
+   color: rgba(7, 2, 17, 0.6);
+    margin-top: -50px
+}
+
+
+.new-offer-year{
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: #FF0000;
+    margin-top: 150px;
+}
+
+.new-offer-year-description{
+   font-family:"Inter", sans-serif;
+   font-size: 20px;
+   color: rgba(7, 2, 17, 0.6);
+   width: 276px;
+   height: 96px;
+   margin-top: -50px;
+}
+
+.new-offer-main-img {
+  width: 500px;
+  height: 500px;
+  border: 15px solid #FF0000;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px auto; 
+}
+
+.new-offer-img {
+  width: 440px;
+  height: 440px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.new-offer-year-img{
+  margin-top: -20px ;
+}
+
+
+
+/* Holdiays style */
+
+.holdiays-seal-section{
+    width: 1320px;
+    height: 986px;
+    text-align: center;
+    margin: 120px auto;
+    position: relative;
+}
+
+.holidays-heading{
+    font-family:"Inter", sans-serif;
+    font-size: 24px;
+    color: #070211;
+}
+
+
+
+.holidays-title{
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+
+.holidays-span{
+    color: #FF0000;
+}
+
+
+.holidays-description{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    width: 1068px;
+    height: 96;
+    margin-left: 160px;
+    line-height: 32px;
+}
+
+
+.holiday-gift-box{
+    position: absolute;
+    width: 596px;
+    height: 470px;
+    left: 15px
+}
+
+.holiday-dicount{
+    position: relative;
+    width: 305px;
+    height:305px;
+    left: 400px ;
+}
+
