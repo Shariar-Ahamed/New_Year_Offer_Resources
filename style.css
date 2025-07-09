@@ -137,17 +137,19 @@
     background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0));
     width: 1320px;
     height: 482px;
-    font-family: "Inter", sans-serif;
-    font-size: 32px;
-    font-weight: 600;
-    text-align: center;
     margin: 120px auto;
     border-radius: 10px;
 
 }
 
 .join-container{
-    padding: 100px 386px;
+    padding: 150px 386px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    width: 549px;
+    height: 272px;
 }
 
 .join-span{
