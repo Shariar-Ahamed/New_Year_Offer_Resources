@@ -312,3 +312,89 @@
     left: 400px ;
 }
 
+
+
+/* The Best Gifs Style */
+.best-gift-section{
+    width: 1320px;
+    height: 1163px;
+    margin: 120px auto;
+}
+
+
+
+.best-gift-heading{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    color:#FF0000;
+    margin-bottom: 16px;
+}
+
+
+.best-gift-title{
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.best-gift-description{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    width: 836px;
+    height: 64px;
+    margin-bottom: 48px;
+}
+
+
+
+.best-gift-child {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 column */
+  gap: 20px; 
+  padding: 0 0px;
+  width: 100%;
+}
+
+.best-gift-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+
+/* Subscribe style  */
+.subscribe-continer{
+    background-color: rgba(255, 0, 0, 0.05);
+    margin: 120px auto;
+    padding-top: 80px;
+    width: 1320px;
+    height: 610px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.mail-img{
+    width: 150px;
+    height: 150px;
+}
+
+.subscribe-title{
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+
+.subscribe-description{
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    width: 836px;
+    height: 64px;
+    margin: 0px 192px 22px 192px ;
+}
