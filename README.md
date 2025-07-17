@@ -1,11 +1,10 @@
-[View on GitHub Pages](https://shahriartbc.github.io/New_Year_Offer_Resources/)
-<div align="center">
-  <img src="images/Banner_Image.png" alt="New Year Banner" width="400"/>
-</div>
-
 # 🎉 New Year Offer Resources
 
 Welcome to the New Year Offer Resources website! This is a modern, responsive landing page designed to celebrate the New Year with exclusive offers, party details, and a newsletter subscription.
+
+<div align="center">
+  <img src="images/Banner_Image.png" alt="New Year Banner" width="400"/>
+</div>
 
 ## 🚀 Live Demo
 [View on GitHub Pages](https://shahriartbc.github.io/New_Year_Offer_Resources/)
