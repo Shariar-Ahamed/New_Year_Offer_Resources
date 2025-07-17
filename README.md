@@ -46,11 +46,8 @@ This project is a festive New Year landing page featuring:
 - CSS3 (Flexbox, Grid, Gradients)
 - Google Fonts (Merriweather, Inter)
 
-## 📸 Screenshots
-<div align="center">
-  <img src="images/New_Year_Photo.png" alt="New Year Photo" width="300"/>
-  <img src="images/Group_70.png" alt="Midnight Party" width="300"/>
-</div>
+## 📸 Full Site View
+![screenshot](Full_Site_View.png)
 
 ## ⚡ Setup & Usage
 1. **Clone the repository**
