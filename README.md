@@ -7,7 +7,7 @@ Welcome to the New Year Offer Resources website! This is a modern, responsive la
 </div>
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://shahriartbc.github.io/New_Year_Offer_Resources/)
+[View on GitHub Pages](https://shariar-ahamed.github.io/New_Year_Offer_Resources/)
 
 ---
 
@@ -51,7 +51,7 @@ This project is a festive New Year landing page featuring:
 ## ⚡ Setup & Usage
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/shahriartbc/New_Year_Offer_Resources.git
+   git clone https://github.com/shariar-ahamed/New_Year_Offer_Resources.git
    ```
 2. **Open the folder** in your code editor (e.g., VS Code).
 3. **View locally**
